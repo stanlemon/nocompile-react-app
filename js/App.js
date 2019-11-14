@@ -8,7 +8,7 @@ export function App() {
   return html`
     <${Database}>
       <h1>Counter App</h1>
-      <${Document} id="counter1">
+      <${Document} id="counter">
         <${Counter} />
       <//>
     <//>
